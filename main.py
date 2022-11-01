@@ -1,1 +1,2 @@
-print('Hello Morpheous :D')
+
+print('Hello Morpheous')
